@@ -10,6 +10,7 @@ meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
 no_index: false
 template: post
+image: images/10.jpg
 ---
 ## Lorem ipsum
 
